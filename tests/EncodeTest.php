@@ -6,7 +6,7 @@
  * Time: 2020
  */
 
-use Rhilip\Bencode\Bencode;
+use TheOneDT\Bencode\Bencode;
 use PHPUnit\Framework\TestCase;
 
 class EncodeTest extends TestCase
