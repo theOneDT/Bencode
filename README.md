@@ -8,7 +8,7 @@
 
 This is a pure PHP library that allows you to encode and decode Bencode data.
 
-This library is fork from [OPSnet/bencode-torrent](https://github.com/OPSnet/bencode-torrent),
+This library is fork from [OPSnet/bencode-torrent] / [Rhilip/Bencode] (https://github.com/OPSnet/bencode-torrent),
 with same method like [sandfoxme/bencode](https://github.com/sandfoxme/bencode)
 
 ## Installation
